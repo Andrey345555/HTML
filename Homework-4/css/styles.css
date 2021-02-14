@@ -1,0 +1,32 @@
+.header {}
+
+.menu {}
+
+.menuList {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: ;
+    margin-right: ;
+    margin-bottom: ;
+    margin-left: ;
+
+    margin: 10px ;
+
+}
+
+.menuListItem {
+    list-style: none;
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.menuListItem:last-child {
+    margin-right: 0;
+}
+
+.Itemlink {
+    font-size: 14px;
+    text-transform: uppercase;
+    color:#000;
+    text-decoration: none;
+}
