@@ -5,12 +5,11 @@
 .menuList {
     margin: 0 auto;
     text-align: center;
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
-
-    margin: 10px ;
+    margin-top: 0 auto;
+    margin-right: 0 auto;
+    margin-bottom: 0 auto;
+    margin-left: 0 auto;
+    width: 0 auto;
 
 }
 
