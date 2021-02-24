@@ -1,0 +1,30 @@
+.main{
+    text-align: center;
+    margin: 0 auto;
+    width: 910px;
+}
+
+.card{
+    width: 350px;
+    margin-right: 420;
+}
+
+.card_img{
+    width: 420px;
+    height: 280px;
+}
+
+.card_title{
+    font-family: 'Playfair Display', serif;
+    color: rgb(180, 173, 158, 255);
+    text-transform: none;
+    font-size: 15px;
+}
+
+
+
+.card_text{
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    color: rgb(180, 173, 158, 255);
+}
