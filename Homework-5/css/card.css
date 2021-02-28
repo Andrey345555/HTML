@@ -1,0 +1,43 @@
+.main{
+   text-align: center;
+   margin: 0 auto;
+   width: 1115px;
+  
+}
+
+.img{
+    width: 280px;
+    margin-bottom: 130px;
+}
+
+.card_img{
+    width: 420px;
+    height: 262px;
+    margin-bottom: 11px;
+}
+
+.card_title{
+    font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-weight: 90;
+    color: rgb(98, 98, 98, 255);
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.card_text{
+  font-size: 14px;
+  width: 400px;
+  color: rgb(22, 20, 20);
+  font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+  
+}
+
+.card_btn{
+   padding: 17px 34px;
+   font-size: 22px;
+   font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+   font-weight: 400;
+   color: #e01010;
+   border-color: rgb(199, 19, 19);
+   border: none;
+}
