@@ -1,24 +1,26 @@
 .main{
    text-align: center;
    margin: 0 auto;
-   width: 1115px;
+   width: 910px;
   
 }
 
 .img{
     width: 280px;
-    margin-bottom: 130px;
+    margin-bottom: 420px;
+    display: inline-block;
 }
 
 .card_img{
     width: 420px;
-    height: 262px;
+    height: 280px;
     margin-bottom: 11px;
+    display: inline-block;
 }
 
 .card_title{
-    font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
-    font-weight: 90;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
     color: rgb(98, 98, 98, 255);
     margin-bottom: 30px;
     text-align: left;
@@ -27,17 +29,18 @@
 .card_text{
   font-size: 14px;
   width: 400px;
-  color: rgb(22, 20, 20);
-  font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
-  
+  color: #7a7a7a;
+  font-family:  'Playfair Display', serif;
+  display: inline-block;
 }
 
 .card_btn{
    padding: 17px 34px;
    font-size: 22px;
-   font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+   font-family:  'Playfair Display', serif;
    font-weight: 400;
    color: #1d0f0f;
    border-color: rgb(199, 19, 19);
    border: none;
+   
 }

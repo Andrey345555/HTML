@@ -5,14 +5,12 @@
     width: 910;
     text-align: center;
     margin: 0 auto;
-    
 } 
 
 .menu{
-    font-family: ﻿PlayfairDisplay-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
-    width: 420;
-    height: 280;
-    margin-bottom: 104px;
+    font-family: 'Playfair Display', serif;
+    width: 1115px;
+    margin-bottom: 113px;
 }
 
 .menu_list{}
