@@ -2,15 +2,16 @@
     font-weight: 300;
     font-size: 14px;
     color: rgb(98, 98, 98, 255);
-    width: 910;
+    width: 910px;
     text-align: center;
-    margin: 0 auto;
+    margin: 0 auto 103px auto;
 } 
+
+
 
 .menu{
     font-family: 'Playfair Display', serif;
-    width: 1115px;
-    margin-bottom: 113px;
+    
 }
 
 .menu_list{}
@@ -19,6 +20,7 @@
    list-style: none;
    display: inline-block;
    margin-right: 60px;
+
 }
 
 .menu_list_item_link{
@@ -26,5 +28,9 @@
     text-transform: uppercase;
     color: #7c7c7c;
     font-weight: 400; 
+}
+
+.menu_list_item_link:hover{
+    color: #03a9f4;
 }
 
