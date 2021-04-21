@@ -1,16 +1,26 @@
-@import"./header.css";
+.members{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+}
 
+.member_photo{
+    position: relative;
+}
 
-@import"./reset.css";
+.member_photo::before{
+    content: ;
+    display: block;
+    background: linear-gradient(180deg, rgba(239, 139, 138, 0.8) 0%, rgba(229, 207, 130, 0.8) 100%);
+    position: absolute;
+    left: -10px;
+    right: 10px;
+    top: -10px;
+    bottom: 10px;
+    opacity: 0;
+    transition: opacity .5s;
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+.member_photo:hover::before{
+  opacity: 1;
+}

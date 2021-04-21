@@ -1,0 +1,39 @@
+.header{
+  width: 1200px;
+}
+
+.logo{
+   
+}
+
+.logo_link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #95e1d3;
+}
+
+.menu{
+    font-size: 14px;
+    width: 490px;
+    text-decoration: none;
+}
+
+.menu_list{
+
+}
+
+.menu_list_item{
+
+}
+
+.list_item_link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.list_item_link:hover{
+    color: #f40303;
+    border-bottom: 2px solid #772121;
+ }

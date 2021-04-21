@@ -17,11 +17,11 @@
 
 
 .logo_link{
-   
    font-family: 'Montserrat', sans-serif;
    color: #95e1d3;
    font-size: 30px;
    text-decoration: none;
+   font-weight: 700;
 }
 
 .menu{
@@ -54,8 +54,8 @@
 }
 
 .menu_list_item_link:hover{
-   color: #f40303;
-   border-bottom: 2px solid #772121;
+   color: #f38181;
+   border-bottom: 2px solid #f38181;
 }
 
 

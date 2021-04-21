@@ -39,11 +39,7 @@
 
 .team_image{
     width: 380px;
-    height: 470px;
-    margin: 0 auto;
-    display:flex;
-    flex-wrap:wrap;  
-    justify-content: space-between;
+
 }
 
 .img_wrapper{
@@ -62,12 +58,5 @@
     color:rgb(153, 153, 153)
 }
 
-.title{
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    font-size: 14px;
-    padding-top: 31px;
-    text-align: center;
-    font-weight: 400;
-}
+
 
