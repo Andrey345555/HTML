@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.service{
+
+}
+
+.service_list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.service_list li {
+    width: 33.33%;
+    margin: 50px 0;
+    padding: 0 35px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.service_list img{
+    display: block;
+    margin-right: 20px;
+}
+
+.service_list h3{
+    margin-bottom: 20px;
+}
