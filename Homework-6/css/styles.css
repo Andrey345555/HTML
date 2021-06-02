@@ -1,33 +1,31 @@
-@import url("./reset.css");  
+.header{
 
-@import url("./header.css");
+}
 
-@import url("./card.css"); 
+.header.wrapper{
 
-@import url("./team.css");  
+}
 
+.logo{
 
+}
 
+.logo_link{
 
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+.menu{
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+.menu_list{
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.menu_list_item{
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+.menu_list_link{
+    
+}
