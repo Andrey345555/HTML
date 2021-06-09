@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.header{
+
+}
+
+.header.wrapper{
+
+}
+
+.logo{
+
+}
+
+.logo_link{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.menu{
+
+}
+
+.menu_list{
+
+}
+
+.menu_list_item{
+
+}
+
+.menu_list_link{
+    
+}

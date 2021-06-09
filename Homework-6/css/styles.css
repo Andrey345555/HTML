@@ -1,31 +1,5 @@
-.header{
 
-}
 
-.header.wrapper{
+@import url(./header.css);
 
-}
-
-.logo{
-
-}
-
-.logo_link{
-
-}
-
-.menu{
-
-}
-
-.menu_list{
-
-}
-
-.menu_list_item{
-
-}
-
-.menu_list_link{
-    
-}
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
