@@ -41,29 +41,12 @@
     transform:translate(-50%, -50%) ;
 }
 
-.member_photo::before{
-    content: "";
-    display: block;
-    background: linear-gradient(180deg, rgba(239, 139, 138, 0.8) 0%, rgba(229, 207, 130, 0.8) 100%);
-    transition: opasity .5s;
-    position: absolute;
-    width: 380px;
-    height: 470px;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    opacity: 0;
-    box-shadow: 10px 10px 0px 0px #95e1d3;
-}
+
 
 .member_photo:hover::before{
     opacity: 1;
 }
 
-.team_image{
-    width: 380px;
-}
 
 .team_name{
     font-family: 'Montserrat', sans-serif;
@@ -100,6 +83,3 @@ margin-right: 1px;
    
 }
 
-.team_image{
-  
-}
