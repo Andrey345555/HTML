@@ -5,6 +5,7 @@
 .plan{
     text-align: center;
     font-family: 'Roboto', sans-serif;
+   
 }
 
 .prising_plan{
@@ -14,6 +15,7 @@
   margin-bottom: 40px;
 }
 
+
 .columns {
     float: left;
     width: 33.3%;
@@ -22,15 +24,16 @@
     border: 2px solid #bbb;
     padding-top: 10px;
     border-radius: 4px;
+    margin-right: 10px;
 }
 
 .prices_img{
     display: block;
     position: absolute;
     width: 55px;
-    /* border-radius: 4px; */
-    margin-right: -80%;
-    margin-top: -15%;
+    border-radius: 4px;  
+    top: -50px;
+    left: calc(50% - 27.5px);
 }
 
 .price {
@@ -55,6 +58,12 @@
     align-items: center;
 }
 
+.cards{
+display: flex;
+justify-content: space-between;
+width: 750px;
+margin: 0 auto;
+}
 
 .price .name {
     font-size: 25px;
@@ -69,6 +78,7 @@
 .price .grey {
     background-color: #eee;
     font-size: 20px;
+    text-align: center;
 }
 
 .button {
@@ -82,8 +92,16 @@
     border-radius: 4px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 320px) {
     .columns {
         width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .columns{
+    
     }
 }
